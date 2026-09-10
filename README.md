@@ -233,3 +233,6 @@ This repository serves as the official landing page for Grease Lightning. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Grease Lightning today!**
+
+---
+**Last updated:** 2026-09-10 17:21:52 UTC
