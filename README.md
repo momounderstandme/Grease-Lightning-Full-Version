@@ -235,4 +235,4 @@ This repository serves as the official landing page for Grease Lightning. The so
 **Get the most recent version of Grease Lightning today!**
 
 ---
-**Last updated:** 2026-09-26 21:40:16 UTC
+**Last updated:** 2026-09-26 23:59:20 UTC
